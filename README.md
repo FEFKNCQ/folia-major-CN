@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/fc39e71ebcc4
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/folia-major/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/folia-major-CN/releases) 下载。
 
 
 <p align="center">
